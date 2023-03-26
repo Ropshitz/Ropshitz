@@ -1,8 +1,8 @@
-### Hello! I'm a web developer :sparkles:
+### Hello! I'm a back-end developer :sparkles:
 ---
 - 📫  You can contact me at: ropshitz@proton.me
-- 🌱 Currently learning: **NodeJS and Go**.
-- :books: Currently reading: [Software Foundations](https://softwarefoundations.cis.upenn.edu/) and [זכרון יהודה](https://hebrewbooks.org/762).
+- 🌱 Currently learning: **Go**.
+- :books: Currently reading: [Software Foundations](https://softwarefoundations.cis.upenn.edu/).
 ---
 
 
